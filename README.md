@@ -13,7 +13,7 @@ step 6. Run the php artisan serve.
 
 Home page : http://127.0.0.1:8000/index
 
-Admin page : http://127.0.0.1:8000/adminArea 
+Admin Dashboard : http://127.0.0.1:8000/adminArea 
 
 -- Make sure to change the UserType from the Database To -> admin <-
 
