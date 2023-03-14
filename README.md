@@ -1,1 +1,14 @@
 # Blog
+///////////////////////////////////////////////////////////////////////
+
+First thing to do after downloading the project:
+Step 1. UnZip the folder.
+Step 2. go to xampp/php/php.ini Search Ctrl + f type zip and delete the semicolon 
+Step 3. open you cmd and type composer update.
+Step 4. Make sure to copy the .env example file and set your variable.
+step 5. Run the php artisan migrate command.
+step 6. Run the php artisan serve.
+
+///////////////////////////////////////////////////////////////////////
+
+Thinks for your time
